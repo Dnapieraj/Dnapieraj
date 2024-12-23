@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1)
+![MasterHead]([https://i0.wp.com/plopdo.com/wp-content/uploads/2021/07/Screenshot-1.png?resize=1210%2C642&ssl=1](https://multishoring.com/wp-content/uploads/2024/04/what-is-front-end-development.png))
 
 <img align="center" alt="Hi, I'm Daniel" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=fff&center=true&vCenter=true&width=435&lines=Hello+I'm+Karol](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Daniel](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Daniel](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi%2C+I'm+Daniel">
 <h3 align="left">A passionate Front-end Developer from Poland</h3>
