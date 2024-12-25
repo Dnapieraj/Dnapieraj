@@ -18,9 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@daniel-napieraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@daniel-napieraj" height="30" width="40" /></a>
-<a href="https://fb.com/daniel napieraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel napieraj" height="30" width="40" /></a>
-<a href="https://instagram.com/d_napieraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_napieraj" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100016579751737" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel napieraj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/d_napieraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_napieraj" height="30" width="40" /></a>
 <a href="https://discord.gg/swagelf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="swagelf" height="30" width="40" /></a>
 </p>
 
