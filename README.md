@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Python**
 
 - 💬 Ask me about **Website and web application**
 
