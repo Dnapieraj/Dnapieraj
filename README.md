@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Python**
 
-- 💬 Ask me about **Website and web application**
+- 💬 Ask me about **Website & web application**
 
 - 📫 How to reach me **d.napieraj06@gmail.com**
 
