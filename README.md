@@ -1,5 +1,5 @@
 
-<img src="baner.jpg" alt="Web Developer Banner" width="100%" />
+<img src="baner.webp" alt="Web Developer Banner" width="100%" />
 
 <img align="center" alt="Hi, I'm Daniel" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=fff&center=true&vCenter=true&width=435&lines=Hello+I'm+Karol](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Daniel](https://readme-typing-svg.vercel.app?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Daniel](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=435&lines=Hi%2C+I'm+Daniel">
 <h3 align="left">A passionate Web developer from Poland</h3>
