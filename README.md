@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React, Python**
 
-- 💬 Ask me about **Website & web application**
+- 💬 Ask me about **Website & Web application and in the future Mobile applications**
 
 - 📫 How to reach me **d.napieraj06@gmail.com**
 
