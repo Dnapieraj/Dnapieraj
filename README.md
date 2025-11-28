@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React, Python, PHP, UX/UI design**
+- 🌱 I’m currently learning **React, React-Native, Python, PHP, UX/UI design**
 
 - 💬 Ask me about **Websites and in the future Mobile applications**
 
